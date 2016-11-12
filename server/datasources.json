@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "loopbacklearning": {
+    "host": "ds151697.mlab.com",
+    "port": 51697,
+    "url": "mongodb://sumant19:paridhi10@ds151697.mlab.com:51697/loopbacklearning",
+    "database": "loopbacklearning",
+    "password": "paridhi10",
+    "name": "loopbacklearning",
+    "user": "sumant19",
+    "connector": "mongodb"
+  }
+}
